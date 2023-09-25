@@ -67,12 +67,6 @@
         "StoreId": null,
         "StoreName": "My online-shop"
       },
-      "ServerData": {
-        "Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31",
-        "CreateDateTime": "2023-09-19T09:04:38+02:00",
-        "Referer": null,
-        "IpAddress": "0:0:0:0:0:0:0:1"
-      },
       "Customer": {
         "DeliveryAddress": {
           "LastName": "Doe",
