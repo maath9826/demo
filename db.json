@@ -68,7 +68,7 @@
         "StoreName": "My online-shop"
       },
       "Customer": {
-        "DeliveryAddress": {
+        
           "LastName": "Doe",
           "AddAddress": null,
           "Company": null,
@@ -83,7 +83,6 @@
           "City": "Bremen",
           "FirstName": "John",
           "EMail": "support@winorder.de"
-        }
       }
     },
     {
