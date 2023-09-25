@@ -12,7 +12,9 @@
     "name": "typicode"
   },
   "GetNewOrders": {
-   "OrderList":[
+   "OrderList":{
+     "Order":[
+       [
     {
       "AddInfo": {
         "PaymentType": "Barzahlung",
@@ -168,5 +170,7 @@
       }
     }
   ]
+     ]
+   }
   }
 }
