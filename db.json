@@ -14,7 +14,7 @@
   "GetNewOrders": {
    "OrderList":{
      "Order":[
-       [
+       
     {
       "AddInfo": {
         "PaymentType": "Barzahlung",
@@ -170,7 +170,7 @@
       }
     }
   ]
-     ]
+     
    }
   }
 }
