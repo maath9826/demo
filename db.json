@@ -12,158 +12,94 @@
     "name": "typicode"
   },
   "GetNewOrders": {
-   "OrderList":{
-     "Order":[
-       
-    {
-      "AddInfo": {
-        "PaymentType": "Barzahlung",
-        "DiscountPercent": 10,
-        "Total": 9.18
-      },
-      "OrderID": "7546452dg4r34dsd3",
-      "ArticleList": {
-        "Article": [
-          {
-            "Price": 7.8,
-            "ArticleSize": "Mittel (ca. 32cm)",
-            "ArticleName": "Pizza Hawaii",
-            "ArticleNo": "P22",
-            "SubArticleList": {
-              "SubArticle": [
-                {
-                  "Comment": null,
-                  "Price": 0.9,
-                  "Count": 1,
-                  "ArticleName": "Schinken"
+    "OrderList": {
+        "Order": [
+            {
+                "OrderID": "fcf6f2cd-d0aa-4b75-a125-66513294cc14",
+                "AddInfo": {
+                    "Id": 1,
+                    "DateTimeOrder": null,
+                    "DiscountPercent": 10,
+                    "DiscountValue": 10,
+                    "DiscountName": "testdiscount",
+                    "Contactless": false,
+                    "CurrencyStr": "IQD",
+                    "DeliverLumpSum": 20,
+                    "DeliveryType": "delivery",
+                    "AcceptedByByEmployeeNo": 1,
+                    "DeliveredByEmployeeNo": 2,
+                    "Comment": "Driver should honk when he arrives.",
+                    "PaymentType": "Cash payment",
+                    "PaymentFee": 1,
+                    "MinQuantitySurcharge": 2,
+                    "MinOrderValue": 2,
+                    "Tip": 3,
+                    "TransactionID": "ewr3wr",
+                    "PromisedETA": null,
+                    "Total": 20
                 },
-                {
-                  "Comment": null,
-                  "Price": 1.5,
-                  "Count": 1,
-                  "ArticleName": "Putenbruststreifen"
+                "Customer": {
+                    "DeliveryAddress": {
+                        "CustomerNo": 1,
+                        "FirstName": "John",
+                        "LastName": "Doe",
+                        "AddAddress": null,
+                        "Company": null,
+                        "Zip": "28205",
+                        "Street": "Hoyaer Straße",
+                        "Latitude": null,
+                        "Longitude": null,
+                        "Country": null,
+                        "Title": null,
+                        "HouseNo": "13",
+                        "PhoneNo": "0421-2477828",
+                        "City": "Bremen",
+                        "EMail": "support@winorder.de",
+                        "DescriptionOfWay": null,
+                        "State": null,
+                        "PayPalEmail": null,
+                        "mobile": null,
+                        "fax": null,
+                        "NoMarketing": null,
+                        "userId": "10465f91-e7db-45ed-8b91-818f70db6d73",
+                        "storeId": 1
+                    }
                 },
-                {
-                  "Comment": "hot!",
-                  "Price": null,
-                  "Count": 1
+                "StoreData": {
+                    "StoreID": 1,
+                    "StoreName": "somestore"
+                },
+                "ArticleList": {
+                    "Article": [
+                        {
+                            "ArticleNo": 1,
+                            "ArticleName": "Pizza Hawaii",
+                            "ArticleSize": "Mittel (ca. 32cm)",
+                            "Count": 1,
+                            "Price": 7.8,
+                            "Tax": null,
+                            "Deposit": null,
+                            "Comment": null,
+                            "SubArticleList": {
+                                "SubArticle": [
+                                    {
+                                        "Id": 1,
+                                        "ArticleNo": 1,
+                                        "ArticleName": "Schinken",
+                                        "Count": 1,
+                                        "Partition": null,
+                                        "Price": 0.9,
+                                        "Tax": null,
+                                        "Deposit": null,
+                                        "Comment": null
+                                    }
+                                ]
+                            }
+                        }
+                    ]
                 }
-              ]
-            },
-            "Count": 1
-          },
-          {
-            "Price": null,
-            "ArticleSize": null,
-            "ArticleName": null,
-            "ArticleNo": null,
-            "SubArticleList": null,
-            "Count": 1,
-            "Comment": "Testbestellung: Pronto Pronto!"
-          }
+            }
         ]
-      },
-      "StoreData": {
-        "StoreId": null,
-        "StoreName": "My online-shop"
-      },
-      "Customer": {
-        
-          "LastName": "Doe",
-          "AddAddress": null,
-          "Company": null,
-          "Zip": "28205",
-          "Street": "Hoyaer Straße",
-          "Latitude": null,
-          "Country": null,
-          "Longitude": null,
-          "HouseNo": "13",
-          "Title": null,
-          "PhoneNo": "0421-2477828",
-          "City": "Bremen",
-          "FirstName": "John",
-          "EMail": "support@winorder.de"
-      }
-    },
-    {
-      "AddInfo": {
-        "PaymentType": "Barzahlung",
-        "DiscountPercent": 10,
-        "Total": 9.18
-      },
-      "OrderID": "32143412fdd213123dsfsdef",
-      "ArticleList": {
-        "Article": [
-          {
-            "Price": 7.8,
-            "ArticleSize": "Mittel (ca. 32cm)",
-            "ArticleName": "Pizza Hawaii",
-            "ArticleNo": "P22",
-            "SubArticleList": {
-              "SubArticle": [
-                {
-                  "Comment": null,
-                  "Price": 0.9,
-                  "Count": 1,
-                  "ArticleName": "Schinken"
-                },
-                {
-                  "Comment": null,
-                  "Price": 1.5,
-                  "Count": 1,
-                  "ArticleName": "Putenbruststreifen"
-                },
-                {
-                  "Comment": "hot!",
-                  "Price": null,
-                  "Count": 1
-                }
-              ]
-            },
-            "Count": 1
-          },
-          {
-            "Price": null,
-            "ArticleSize": null,
-            "ArticleName": null,
-            "ArticleNo": null,
-            "SubArticleList": null,
-            "Count": 1,
-            "Comment": "Testbestellung: Pronto Pronto!"
-          }
-        ]
-      },
-      "StoreData": {
-        "StoreId": null,
-        "StoreName": "My online-shop"
-      },
-      "ServerData": {
-        "Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31",
-        "CreateDateTime": "2023-09-19T09:04:38+02:00",
-        "Referer": null,
-        "IpAddress": "0:0:0:0:0:0:0:1"
-      },
-      "Customer": {
-        "DeliveryAddress": {
-          "LastName": "muath",
-          "AddAddress": null,
-          "Company": null,
-          "Zip": "28205",
-          "Street": "Hoyaer Straße",
-          "Latitude": null,
-          "Country": null,
-          "Longitude": null,
-          "HouseNo": "13",
-          "Title": null,
-          "PhoneNo": "0421-2477828",
-          "City": "Bremen",
-          "FirstName": "ghassan",
-          "EMail": "support@winorder.de"
-        }
-      }
     }
-  ]
-     
-   }
-  }
+}
 }
