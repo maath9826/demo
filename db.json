@@ -72,7 +72,7 @@
                 "ArticleList": {
                     "Article": [
                         {
-                            "ArticleNo": "P1",
+                            "ArticleName": "this is new article",
                             "ArticleSize": "damn",
                             "Count": 1,
                             "Price": 7.8,
