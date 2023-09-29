@@ -72,26 +72,21 @@
                 "ArticleList": {
                     "Article": [
                         {
-                            "ArticleNo": "s1",
-                            "ArticleName": "Pizza Hawaii",
-                            "ArticleSize": "Mittel (ca. 32cm)",
+                            "ArticleNo": "P1",
+                            "ArticleSize": "damn",
                             "Count": 1,
                             "Price": 7.8,
-                            "Tax": null,
-                            "Deposit": null,
-                            "Comment": null,
                             "SubArticleList": {
                                 "SubArticle": [
                                     {
-                                        "ArticleNo": "x1",
-                                        "ArticleName": "Schinken",
+                                        "ArticleNo": "S120",
                                         "Count": 1,
                                         "Price": 0.9
 
                                     },
                                                                       {
-                                        "ArticleNo": "x2",
-                                        "ArticleName": "Schinken2",
+                                        "ArticleNo": "S121",
+                                        "ArticleName": "Jo-Sashimi deluxe (15 Stück)",
                                         "Count": 1,
                                         "Price": 1.9
 
@@ -100,9 +95,8 @@
                             }
                         },
                       {
-                            "ArticleNo": 2,
-                            "ArticleName": "Not Pizza Hawaii",
-                            "ArticleSize": "Not Mittel (ca. 32cm)",
+                            "ArticleName": "Grundpizza",
+                            "ArticleSize": "damn",
                             "Count": 1,
                             "Price": 7.8,
                             "SubArticleList": {
@@ -110,7 +104,7 @@
                                     {
                         
 
-                                        "ArticleName": "Bchinken",
+                                        "ArticleName": "Shake-Sashimi (9 Stück)",
                                         "Count": 1,
 
                                         "Price": 0.9
@@ -118,8 +112,37 @@
                                     },
                                                                       {
                                        
+  
+                                        "ArticleName": "Baguette Käse",
+                                        "Count": 1,
 
-                                        "ArticleName": "Bchinken2",
+                                        "Price": 1.9
+
+                                    }
+                                ]
+                            }
+                        },
+                      {
+                        "ArticleNo": "P1",
+                            "ArticleName": "Grundpizza",
+                            "ArticleSize": "damn",
+                            "Count": 1,
+                            "Price": 7.8,
+                            "SubArticleList": {
+                                "SubArticle": [
+                                    {
+                        
+
+                                        "ArticleName": "Shake-Sashimi (9 Stück)",
+                                        "Count": 1,
+
+                                        "Price": 0.9
+    
+                                    },
+                                                                      {
+                                       
+  
+                                        "ArticleName": "Baguette Käse",
                                         "Count": 1,
 
                                         "Price": 1.9
