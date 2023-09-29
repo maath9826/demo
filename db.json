@@ -92,6 +92,17 @@
                                         "Tax": null,
                                         "Deposit": null,
                                         "Comment": null
+                                    },
+                                                                      {
+                                        "Id": 2,
+                                        "ArticleNo": 1,
+                                        "ArticleName": "Schinken 2",
+                                        "Count": 1,
+                                        "Partition": null,
+                                        "Price": 0.9,
+                                        "Tax": null,
+                                        "Deposit": null,
+                                        "Comment": null
                                     }
                                 ]
                             }
