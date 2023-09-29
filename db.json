@@ -86,14 +86,14 @@
                                         "ArticleNo": "x1",
                                         "ArticleName": "Schinken",
                                         "Count": 1,
-                                        "Price": 0.9,
+                                        "Price": 0.9
 
                                     },
                                                                       {
                                         "ArticleNo": "x2",
                                         "ArticleName": "Schinken2",
                                         "Count": 1,
-                                        "Price": 1.9,
+                                        "Price": 1.9
 
                                     }
                                 ]
@@ -113,7 +113,7 @@
                                         "ArticleName": "Bchinken",
                                         "Count": 1,
 
-                                        "Price": 0.9,
+                                        "Price": 0.9
     
                                     },
                                                                       {
@@ -122,7 +122,7 @@
                                         "ArticleName": "Bchinken2",
                                         "Count": 1,
 
-                                        "Price": 1.9,
+                                        "Price": 1.9
 
                                     }
                                 ]
