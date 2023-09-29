@@ -72,7 +72,7 @@
                 "ArticleList": {
                     "Article": [
                         {
-                            "ArticleNo": 1,
+                            "ArticleNo": "s1",
                             "ArticleName": "Pizza Hawaii",
                             "ArticleSize": "Mittel (ca. 32cm)",
                             "Count": 1,
@@ -83,26 +83,47 @@
                             "SubArticleList": {
                                 "SubArticle": [
                                     {
-                                        "Id": 1,
-                                        "ArticleNo": 1,
+                                        "ArticleNo": "x1",
                                         "ArticleName": "Schinken",
                                         "Count": 1,
-                                        "Partition": null,
                                         "Price": 0.9,
-                                        "Tax": null,
-                                        "Deposit": null,
-                                        "Comment": null
+
                                     },
                                                                       {
-                                        "Id": 2,
-                                        "ArticleNo": 2,
-                                        "ArticleName": "Schinken 2",
+                                        "ArticleNo": "x2",
+                                        "ArticleName": "Schinken2",
                                         "Count": 1,
-                                        "Partition": null,
+                                        "Price": 1.9,
+
+                                    }
+                                ]
+                            }
+                        },
+                      {
+                            "ArticleNo": 2,
+                            "ArticleName": "Not Pizza Hawaii",
+                            "ArticleSize": "Not Mittel (ca. 32cm)",
+                            "Count": 1,
+                            "Price": 7.8,
+                            "SubArticleList": {
+                                "SubArticle": [
+                                    {
+                        
+
+                                        "ArticleName": "Bchinken",
+                                        "Count": 1,
+
                                         "Price": 0.9,
-                                        "Tax": null,
-                                        "Deposit": null,
-                                        "Comment": null
+    
+                                    },
+                                                                      {
+                                       
+
+                                        "ArticleName": "Bchinken2",
+                                        "Count": 1,
+
+                                        "Price": 1.9,
+
                                     }
                                 ]
                             }
