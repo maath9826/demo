@@ -80,7 +80,7 @@
                                 "SubArticle": [
                                     {
                                         "ArticleNo": "S120",
-                                        "Count": 1,
+                                      "ArticleName": "Jo-sss ss (15 Stück)",
                                         "Price": 0.9
 
                                     },
@@ -88,69 +88,28 @@
                                         "ArticleNo": "S121",
                                         "ArticleName": "Jo-Sashimi deluxe (15 Stück)",
                                         "Count": 1,
+
+                                    },
+                                  {
+                                    "ArticleNo": "S122",
+                                        "ArticleName": "Jo-aaaa (15 Stück)",
+
+                                    },
+                                      {
+                                        "ArticleNo": "S123",
+                                        "Count": 1,
+                                        "Price": 1.9
+
+                                    },
+                                                                        {
+                                        "ArticleName": "Jo-bbbb (15 Stück)",
+                                        "Count": 1,
                                         "Price": 1.9
 
                                     }
                                 ]
                             }
                         },
-                      {
-                            "ArticleName": "Grundpizza",
-                            "ArticleSize": "shame",
-                            "Count": 1,
-                            "Price": 7.8,
-                            "SubArticleList": {
-                                "SubArticle": [
-                                    {
-                        
-
-                                        "ArticleName": "Shake-Sashimi (9 Stück)",
-                                        "Count": 1,
-
-                                        "Price": 0.9
-    
-                                    },
-                                                                      {
-                                       
-  
-                                        "ArticleName": "Baguette Käse",
-                                        "Count": 1,
-
-                                        "Price": 1.9
-
-                                    }
-                                ]
-                            }
-                        },
-                      {
-                        "ArticleNo": "P1",
-                            "ArticleName": "Grundpizza",
-                            "ArticleSize": "holy",
-                            "Count": 1,
-                            "Price": 7.8,
-                            "SubArticleList": {
-                                "SubArticle": [
-                                    {
-                        
-
-                                        "ArticleName": "Shake-Sashimi (9 Stück)",
-                                        "Count": 1,
-
-                                        "Price": 0.9
-    
-                                    },
-                                                                      {
-                                       
-  
-                                        "ArticleName": "Baguette Käse",
-                                        "Count": 1,
-
-                                        "Price": 1.9
-
-                                    }
-                                ]
-                            }
-                        }
                     ]
                 }
             }
