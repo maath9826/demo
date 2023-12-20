@@ -87,12 +87,12 @@
                                                                       {
                                         "ArticleNo": "S121",
                                         "ArticleName": "Jo-Sashimi deluxe (15 Stück)",
-                                        "Count": 1,
+                                        "Count": 1
 
                                     },
                                   {
                                     "ArticleNo": "S122",
-                                        "ArticleName": "Jo-aaaa (15 Stück)",
+                                        "ArticleName": "Jo-aaaa (15 Stück)"
 
                                     },
                                       {
@@ -109,7 +109,7 @@
                                     }
                                 ]
                             }
-                        },
+                        }
                     ]
                 }
             }
