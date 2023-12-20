@@ -72,37 +72,74 @@
                 "ArticleList": {
                     "Article": [
                         {
-                            "ArticleName": "this is new article",
-                            "ArticleSize": "damn",
+                            "ArticleName": "This is new article1111",
                             "Count": 1,
-                            "Price": 7.8,
+                            "Price": 3,
                             "SubArticleList": {
                                 "SubArticle": [
                                     {
-                                        "ArticleNo": "S120",
-                                      "ArticleName": "Jo-sss ss (15 Stück)",
+                                        "ArticleNo": "NN120",
+                                      "ArticleName": "1A 1",
                                         "Price": 0.9
 
                                     },
                                                                       {
-                                        "ArticleNo": "S121",
-                                        "ArticleName": "Jo-Sashimi deluxe (15 Stück)",
+                                        "ArticleNo": "NN121",
+                                        "ArticleName": "1A 2",
                                         "Count": 1
 
                                     },
                                   {
-                                    "ArticleNo": "S122",
-                                        "ArticleName": "Jo-aaaa (15 Stück)"
+                                    "ArticleNo": "NN122",
+                                        "ArticleName": "1A 3"
 
                                     },
                                       {
-                                        "ArticleNo": "S123",
+                                        "ArticleNo": "NN123",
                                         "Count": 1,
                                         "Price": 1.9
 
                                     },
                                                                         {
-                                        "ArticleName": "Jo-bbbb (15 Stück)",
+                                        "ArticleName": "1A 4",
+                                        "Count": 1,
+                                        "Price": 1.9
+
+                                    }
+                                ]
+                            }
+                        },
+                      {
+                            "ArticleName": "This is not new article 2",
+                            "Count": 1,
+                            "Price": 2,
+                            "SubArticleList": {
+                                "SubArticle": [
+                                    {
+                                        "ArticleNo": "ZZ120",
+                                      "ArticleName": "2A 1",
+                                        "Price": 0.9
+
+                                    },
+                                                                      {
+                                        "ArticleNo": "ZZ121",
+                                        "ArticleName": "2A 2",
+                                        "Count": 1
+
+                                    },
+                                  {
+                                    "ArticleNo": "ZZ122",
+                                        "ArticleName": "2A 3"
+
+                                    },
+                                      {
+                                        "ArticleNo": "ZZ123",
+                                        "Count": 1,
+                                        "Price": 1.9
+
+                                    },
+                                                                        {
+                                        "ArticleName": "2A 4",
                                         "Count": 1,
                                         "Price": 1.9
 
