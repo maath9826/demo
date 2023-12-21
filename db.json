@@ -72,36 +72,36 @@
                 "ArticleList": {
                     "Article": [
                         {
-                            "ArticleName": "This is new article1111",
+                            "ArticleName": "Grundpizza",
                             "Count": 1,
                             "Price": 3,
                             "SubArticleList": {
                                 "SubArticle": [
                                     {
                                         "ArticleNo": "NN120",
-                                      "ArticleName": "1A 1",
+                                      "ArticleName": "Chef Salat (Gouda)",
                                         "Price": 0.9
 
                                     },
                                                                       {
                                         "ArticleNo": "NN121",
-                                        "ArticleName": "1A 2",
+                                        "ArticleName": "Thunfisch Salat (Gouda)",
                                         "Count": 1
 
                                     },
                                   {
                                     "ArticleNo": "NN122",
-                                        "ArticleName": "1A 3"
+                                        "ArticleName": "Thunfisch Salat (Feta)"
 
                                     },
                                       {
-                                        "ArticleNo": "NN123",
+                                        "ArticleNo": "S24",
                                         "Count": 1,
                                         "Price": 1.9
 
                                     },
                                                                         {
-                                        "ArticleName": "1A 4",
+                                        "ArticleName": "Pizzabrötchen",
                                         "Count": 1,
                                         "Price": 1.9
 
